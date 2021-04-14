@@ -24,7 +24,9 @@
 #basket img{
 
 }
-#ball + img
+#ball + img{
+  
+}
 /* Select the image inside the element with an id of basket (using its descendent relationship) */
 
 /*__write_selector_here__*/ {
